@@ -1,0 +1,15 @@
+# Gradle build folder
+/build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Gradle cache
+/.gradle/
+
+# IDE-specific files
+/.idea/
+/*.iml
+
+# Generated files
+/app/build/
